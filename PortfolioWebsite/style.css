@@ -1,14 +1,77 @@
 @import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300..700&family=Abril+Fatface&family=Agbalumo&family=Bebas+Neue&family=Inconsolata:wght@200..900&family=Protest+Revolution&family=Protest+Riot&display=swap');
 
+.mySkillsContainer{
+    border-radius: 10px;
+}
+
+.skillsDescription{
+    font-family: 'Inconsolata';
+    font-size: 20px;
+}
+
+.SkillsHeading{
+    font-family: 'Akshar';
+    font-size: 40px;
+}
+
+.skills-section{
+    background-image: url('https://img.freepik.com/premium-photo/white-paper-texture-background-cardboard-surface-from-paper-box-packing-designs-decoration-nature-background-concept_707519-16138.jpg?w=900');
+    background-size: cover;
+}
+
+.viewAllText:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.viewAllText{
+    font-family: 'Inconsolata';
+    font-size: 28px;
+    text-decoration: none;
+}
+
+.credentialIDText:hover{
+    cursor: pointer;
+}
+
+.credentialIDText{
+    text-decoration: none;
+}
+
+.credentialID{
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.credentialsLinks:hover{
+    cursor: pointer;
+}
+
+.credentialsLinks{
+    font-family: Arial;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.CertificateMainsHeading{
+    font-family: 'Akshar';
+    font-size: 30px;
+}
+
 .CertificatesHeading{
     font-family: 'Akshar';
     font-size: 40px;
 }
 
+.certificateContainer{
+    background-color: white;
+    border-radius: 10px;
+    height: 100%;
+}
+
 .certificates-section{
     background-image: url('https://img.freepik.com/premium-photo/white-paper-texture-background-cardboard-surface-from-paper-box-packing-designs-decoration-nature-background-concept_707519-16138.jpg?w=900');
     background-size: cover;
-    height: 100vh;
 }
 
 .descriptionHighlight{
@@ -29,7 +92,6 @@
 .aboutme-section{
     background-image: url('https://img.freepik.com/premium-photo/white-paper-texture-background-cardboard-surface-from-paper-box-packing-designs-decoration-nature-background-concept_707519-16138.jpg?w=900');
     background-size: cover;
-    height: 100vh;
 }
 
 .descriptionAboutMe{
