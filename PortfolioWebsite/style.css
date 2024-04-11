@@ -1,7 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300..700&family=Abril+Fatface&family=Agbalumo&family=Bebas+Neue&family=Inconsolata:wght@200..900&family=Protest+Revolution&family=Protest+Riot&display=swap');
 
-.mySkillsContainer{
+.skillName{
+    font-family: 'Akshar';
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.skillsContainer{
     border-radius: 10px;
+}
+
+.skills-img{
+    height: 150px;
+}
+
+.companyName:hover{
+    text-decoration: underline;
+}
+
+.companyName{
+    color: rgb(133, 133, 133);
+    text-decoration: none;
+}
+
+.certifiactedCompany{
+    color: rgb(133, 133, 133);
 }
 
 .skillsDescription{
