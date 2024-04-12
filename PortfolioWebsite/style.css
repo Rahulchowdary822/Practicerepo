@@ -1,5 +1,61 @@
 @import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300..700&family=Abril+Fatface&family=Agbalumo&family=Bebas+Neue&family=Inconsolata:wght@200..900&family=Protest+Revolution&family=Protest+Riot&display=swap');
 
+.quoteText{
+    font-family: 'Protest Riot';
+    font-size: 30px;
+}
+
+.MyCertificates-section{
+    background-image: url('https://img.freepik.com/premium-photo/white-paper-texture-background-cardboard-surface-from-paper-box-packing-designs-decoration-nature-background-concept_707519-16138.jpg?w=900');
+    background-size: cover;
+}
+
+.copyrightText{
+    font-family: 'Inconsolata';
+    font-size: 20px;
+}
+
+.new{
+    border: 2px solid black;
+}
+
+.contactDetails{
+    font-family: 'Inconsolata';
+    font-size: 20px;
+    word-wrap: break-word;
+}
+
+.contactDetailsContainer{
+    background-color: #4b2b23;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 100%;
+}
+
+.iconContainer{
+    background-color: #7e5f47;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.contactFormContainer{
+    background-color: #b89479;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 100%;
+}
+
+.ContactHeading{
+    font-family: 'Akshar';
+    font-size: 40px;
+}
+
+.contact-section{
+    background-image: url('https://img.freepik.com/premium-photo/white-paper-texture-background-cardboard-surface-from-paper-box-packing-designs-decoration-nature-background-concept_707519-16138.jpg?w=900');
+    background-size: cover;
+}
+
 .skillName{
     font-family: 'Akshar';
     font-size: 30px;
@@ -115,6 +171,7 @@
 .aboutme-section{
     background-image: url('https://img.freepik.com/premium-photo/white-paper-texture-background-cardboard-surface-from-paper-box-packing-designs-decoration-nature-background-concept_707519-16138.jpg?w=900');
     background-size: cover;
+    height: 100vh;
 }
 
 .descriptionAboutMe{
